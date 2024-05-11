@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+.list-group-item{
+    margin: 3px;
+}
+.list-group-item:hover{
+    cursor: pointer;
+}
+.replybutton{
+    margin: 3px;
+}
+
+.container{
+    margin-top: 15px;
+}
